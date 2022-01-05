@@ -2,6 +2,7 @@ package mate.academy.spring;
 
 import java.util.List;
 import java.util.List;
+import java.util.Map;
 import mate.academy.spring.config.AppConfig;
 import mate.academy.spring.model.User;
 import mate.academy.spring.service.UserService;
